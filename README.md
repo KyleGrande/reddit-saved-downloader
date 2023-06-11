@@ -5,10 +5,14 @@ In case you decide you don't wanna use reddit anymore.
 
  In your terminal:
  
-`$ git clone https://github.com/KyleGrande/reddit-saved-downloader.git`
+`git clone https://github.com/KyleGrande/reddit-saved-downloader.git`
 
-`$ virtualenv .venv && source .venv/bin/activate && pip install -r requirements.txt`
+MAC:
 
+`virtualenv .venv && source .venv/bin/activate && pip install -r requirements.txt`
+
+WINDOWS:
+`virtualenv .venv && .venv\Scripts\activate && pip install -r requirements.txt`
 
 In your browser:
 
@@ -18,6 +22,6 @@ Paste the info in the `.env` file.
 
 Run the script:
 
-`$ python3 main.py`
+`python3 main.py`
 
 
