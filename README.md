@@ -12,6 +12,7 @@ MAC:
 `virtualenv .venv && source .venv/bin/activate && pip install -r requirements.txt`
 
 WINDOWS:
+
 `virtualenv .venv && .venv\Scripts\activate && pip install -r requirements.txt`
 
 In your browser:
