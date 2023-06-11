@@ -23,6 +23,6 @@ Paste the info in the `.env` file.
 
 Run the script:
 
-`python3 main.py`
+`python3 main.py` or `python main.py`
 
 
