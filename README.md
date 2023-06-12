@@ -1,4 +1,4 @@
-# Reddit Saved Post & Comments Downloader
+# Reddit Saved Post & Comments Downloader (CSV)
 In case you decide you don't wanna use reddit anymore.
  <!-- site hyperlkni -->
  ## Step-by-Step
